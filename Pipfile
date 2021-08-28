@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 yahoo-fantasy-api = "*"
+matplotlib = "*"
+lxml = "*"
+beautifulsoup4 = "*"
+html5lib = "*"
 
 [dev-packages]
 ipykernel = "*"
