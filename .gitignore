@@ -1,0 +1,17 @@
+# Ignore IDE files
+.vscode/
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Ignore Data files
+*.csv
+
+# Ignore login files
+fantasy-football-323118-a9b31ca12801.json
+yahoo.json
+yff.py
+
+# Ignore google sheets files
+google_sheets.py
+quickstart.py
