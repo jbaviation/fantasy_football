@@ -9,6 +9,7 @@ matplotlib = "*"
 lxml = "*"
 beautifulsoup4 = "*"
 html5lib = "*"
+yahoo-oauth = "*"
 
 [dev-packages]
 ipykernel = "*"

@@ -1,5 +1,6 @@
 # Ignore IDE files
 .vscode/
+.vs/
 
 # Ignore Jupyter Checkpoints
 .ipynb_checkpoints/
